@@ -46,8 +46,6 @@
     ],
     "default_locale": "de",
     "background": {
-        "scripts": [
-            "background.js"
-        ]
+        "service_worker": "background.js"
     }
 }
