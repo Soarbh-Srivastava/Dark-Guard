@@ -1,5 +1,3 @@
-![Logo Banner](images/banner.png)
-
 # Dark Guard Pattern Highlighter Browser Extension
 
 This tool, developed by the informatics part of the [Dark Guard-project](https://soarbh-srivastava.gitbook.io/dark-guard/), is intended to help consumers to navigate the internet in a way similar to an ad blocker. However, the highlighter differs from ad blockers in one crucial aspect: it does not block individual dark patterns on websites but highlights them so that consumers become aware of the influences affecting them. In addition, the tool informs about the type of pattern.
@@ -29,8 +27,7 @@ This tool, developed by the informatics part of the [Dark Guard-project](https:/
 
 ### Teaser Video
 
-Click on the image or [here](https://soarbh-srivastava.gitbook.io/dark-guard/) to watch the teaser video for the Pattern Highlighter.
-[![Teaser Video](images/video_thumbnail.png)](https://soarbh-srivastava.gitbook.io/dark-guard/)
+Click on the image or [here](https://www.youtube.com/watch?v=SFlu3IhhYqE&feature=youtu.be) to watch the teaser video for the Pattern Highlighter.
 
 ### Screenshots
 
